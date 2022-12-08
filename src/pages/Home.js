@@ -8,6 +8,8 @@ function Home() {
         <ul>
             <li><Link to="/day01">Day 01</Link></li>
             <li><Link to="/day02">Day 02</Link></li>
+            <li><Link to="/day03">Day 03</Link></li>
+
         </ul>
     </div>
   )

@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import textfile from "../data/day01.text";
+import React, { useState } from 'react'
+import textfile from "../data/day01.txt";
 
 const CalorieCount = () => {
     const [firstElf, setFirstElf] = useState("")

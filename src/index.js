@@ -13,7 +13,7 @@ root.render(
       <Routes>
           <Route index element={<Home />} />
           <Route path="day01" element={<Day01 />} />
-          <Route path="day01" element={<Day02 />} />
+          <Route path="day02" element={<Day02 />} />
       </Routes>
   </BrowserRouter>
 );
